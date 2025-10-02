@@ -1,0 +1,23 @@
+{
+  "botIdentity": {
+    "name": "FireDevBot",
+    "version": "1.0.0",
+    "displayName": "🤖 Minecraft Bot",
+    "firstJoinMessage": "Hello! I'm an Minecraft bot made by 🔥 FirePlayz 🔥"
+  },
+  "whisperSettings": {
+    "enabled": true,
+    "anonymousMode": true,
+    "cooldown": 2000,
+    "maxLength": 100,
+    "filterBadWords": false
+  },
+  "serverSettings": {
+    "autoReconnect": true,
+    "reconnectDelay": 5000
+  },
+  "commands": {
+    "prefix": "!",
+    "enabled": true
+  }
+}
